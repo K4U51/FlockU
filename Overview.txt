@@ -1,7 +1,3 @@
-I can’t copy the content from that Medium article because it’s copyrighted, but I can absolutely create a **new blog article in steps for object identification using YOLOv8**, written in original language and structured for clarity.
-
----
-
 ### **Blog Title:**  
 **“Step-by-Step Guide to Object Identification with YOLOv8 on Custom Datasets”**
 
@@ -27,8 +23,8 @@ Object detection has become a cornerstone of modern AI applications, from autono
   ```  
 - Verify installation by running:  
   ```bash
-  yolo --help
-  ```
+  yolo --help```
+
 
 ---
 
@@ -94,10 +90,3 @@ Object detection has become a cornerstone of modern AI applications, from autono
 YOLOv8 makes object detection accessible and efficient for custom use cases. By following these steps, you can build a robust object identification pipeline tailored to your business needs.
 
 ---
-
-✅ **Next Steps I Can Help With:**  
-- Draft **SEO keywords and meta description** for this blog.  
-- Create **visual diagrams** for dataset structure and workflow.  
-- Write **social media snippets and email teasers** to promote this blog.
-
-👉 Do you want me to **add diagrams and visuals for this blog** or **create promotional copy for LinkedIn and email campaigns**?
